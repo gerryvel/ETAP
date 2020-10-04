@@ -1,5 +1,5 @@
 # ETAP 
-(https://github.com/gerryvel/ETAP/blob/master/NMEA2000%20Barometer.png)
+![Schematics](https://github.com/gerryvel/ETAP/blob/master/ETAP.jpg)
 Bootssteuerung für eine ETAP
 
 Hauptsteuerung LOGO! mit Touchpanel von ESA
