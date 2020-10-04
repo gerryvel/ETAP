@@ -1,5 +1,5 @@
 # ETAP 
-![Schematics](https://github.com/gerryvel/ETAP/blob/master/ETAP.jpg)
+//![Schematics](https://github.com/gerryvel/ETAP/blob/master/ETAP.jpg)
 Bootssteuerung für eine ETAP
 
 Hauptsteuerung LOGO! mit Touchpanel von ESA
