@@ -24,3 +24,9 @@ Hauptsteuerung für einen Kleinkreuzer
 - Wetterstation mit ESP32, WLAN AP, sendet Daten über NMEA200
 - Kartenplotter B&G Vulcan 5
 - Echolot am Vulcan
+
+
+
+![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo_2020-05-25_15-32-36.jpg)
+
+![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo_2020-05-25_15-32-57.jpg)
