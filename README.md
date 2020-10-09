@@ -26,7 +26,8 @@ Hauptsteuerung für einen Kleinkreuzer
 - Echolot am Vulcan
 
 
+![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo_2020-10-09_16-40-10.jpg)
 
-![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo_2020-05-25_15-32-36.jpg)
+![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo_2020-10-09_16-40-08.jpg)
 
 ![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo_2020-05-25_15-32-57.jpg)
