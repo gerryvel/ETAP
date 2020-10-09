@@ -8,7 +8,7 @@ Hauptsteuerung für einen Kleinkreuzer
 *Hardware*
 
 - Landanschluss
-- LOGO! mit Touchpanel von ESA
+- LOGO! mit Touchpanel von ESA SC103
 
 *Funktionen*
 
