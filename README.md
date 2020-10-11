@@ -32,4 +32,4 @@ Hauptsteuerung für einen Kleinkreuzer
 
 ![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo_2020-05-25_15-32-57.jpg)
 
-![Schematics](https://github.com/gerryvel/ETAP/blob/main/panel.jpg)
+![Schematics](https://github.com/gerryvel/ETAP/blob/main/Panel1.jpg)
