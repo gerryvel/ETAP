@@ -21,7 +21,7 @@ Hauptsteuerung für einen Kleinkreuzer
 *Messtechnik*
 
 - Windmesser mit ESP8266, WLAN AP, sendet Daten NMEA0183
-- Wetterstation mit ESP32, WLAN AP, sendet Daten über NMEA200
+- Wetterstation mit ESP32, WLAN AP, empfängt Winddaten, sendet Daten an Plotter über NMEA200
 - Kartenplotter B&G Vulcan 5
 - Echolot am Vulcan
 
