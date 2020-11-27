@@ -1,4 +1,4 @@
-# ETAP 
+# ETAP 20
 ![Schematics](https://github.com/gerryvel/ETAP/blob/main/etap.jpg)
 
 Bootssteuerung für eine ETAP 20
