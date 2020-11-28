@@ -25,6 +25,7 @@ Hauptsteuerung für einen Kleinkreuzer
 - Kartenplotter B&G Vulcan 5
 - Echolot am Vulcan
 
+![Schematics](https://github.com/gerryvel/ETAP/blob/main/ETAP.pdf)
 
 ![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo_2020-10-09_16-40-10.jpg)
 
