@@ -7,22 +7,26 @@ Hauptsteuerung für einen Kleinkreuzer
 
 *Hardware*
 
-- Landanschluss
-- LOGO! mit Touchpanel von ESA SC103
+- Landanschluss CEE Steckdose
+- Batterie 90Ah
+- Solarpanel 130Wp
+- Siemens-LOGO! mit Touchpanel von ESA SC103
 
 *Funktionen*
 
 - E/A Beleuchtung
+- E/A Toplicht
 - E/A der Bordelektronik (Plotter, Windmesser)
 - Unterspannungsabschaltung Verbraucher
+- USV (Ladung Akku)
 - Solaranlage (epever) mit Modbus-Kopplung zu Panel
 - USB Steckdose
 
 *Messtechnik*
 
 - Windmesser mit ESP8266, WLAN AP, sendet Daten NMEA0183
-- Wetterstation mit ESP32, WLAN AP, empfängt Winddaten, sendet Daten an Plotter über NMEA200
-- Kartenplotter B&G Vulcan 5
+- Wetterstation mit ESP32, WLAN AP, empfängt die Winddaten vom Windmesser, sendet alle Daten an Plotter über NMEA200
+- Kartenplotter B&G Vulcan 7
 - Echolot am Vulcan
 
 ![Schaltplan](https://github.com/gerryvel/ETAP/blob/main/ETAP.pdf)
