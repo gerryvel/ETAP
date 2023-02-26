@@ -11,6 +11,8 @@ Hauptsteuerung für einen Kleinkreuzer
 - Batterie 90Ah
 - Solarpanel 130Wp
 - Siemens-LOGO! mit Touchpanel von ESA SC103
+- NMEA 2000 Netzwerk
+- B&G Plotter Vulcan 7
 
 *Funktionen*
 
