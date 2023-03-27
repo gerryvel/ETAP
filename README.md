@@ -42,4 +42,9 @@ Hauptsteuerung für einen Kleinkreuzer
 
 ![image](https://user-images.githubusercontent.com/17195231/227984708-99b8dcd1-320f-438b-afbe-812f05a47e54.jpeg)
 
+![image](https://user-images.githubusercontent.com/17195231/228045143-26477db6-011c-4879-a8df-05baee568746.jpeg)
+
+![image](https://user-images.githubusercontent.com/17195231/228045332-98923f65-827a-4b17-bdb6-ee9eb743253e.jpeg)
+
+
 
