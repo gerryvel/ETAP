@@ -10,7 +10,7 @@ Hauptsteuerung für einen Kleinkreuzer
 - Landanschluss CEE Steckdose
 - Batterie 90Ah
 - Solarpanel 130Wp
-- Siemens-LOGO! mit Touchpanel von ESA SC103
+- Siemens-LOGO! mit Touchpanel von Kinco 4,3"
 - NMEA 2000 Netzwerk
 - B&G Plotter Vulcan 7
 
