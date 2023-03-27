@@ -16,7 +16,8 @@ Hauptsteuerung für einen Kleinkreuzer
 
 *Funktionen*
 
-- E/A Beleuchtung
+- E/A Beleuchtung Raum und Navitisch
+- E/A Steckdose E-Motor
 - E/A Toplicht
 - E/A der Bordelektronik (Plotter, Windmesser)
 - Unterspannungsabschaltung Verbraucher
