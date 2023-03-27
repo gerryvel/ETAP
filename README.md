@@ -43,6 +43,3 @@ Hauptsteuerung für einen Kleinkreuzer
 ![image](https://user-images.githubusercontent.com/17195231/227984708-99b8dcd1-320f-438b-afbe-812f05a47e54.jpeg)
 
 
-
-![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo/Panel1.jpg)
-![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo/Panel2.jpg)
