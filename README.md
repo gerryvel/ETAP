@@ -38,11 +38,11 @@ Hauptsteuerung für einen Kleinkreuzer
 
 *Fotos*
 
-![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo_2020-10-09_16-40-10.jpg)
+![image](https://user-images.githubusercontent.com/17195231/227980468-d2b7e442-e219-49b4-a7d9-7403569d0187.jpeg)
 
-![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo_2020-10-09_16-40-08.jpg)
+![image](https://user-images.githubusercontent.com/17195231/227984708-99b8dcd1-320f-438b-afbe-812f05a47e54.jpeg)
 
-![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo_2020-05-25_15-32-57.jpg)
+
 
 ![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo/Panel1.jpg)
 ![Schematics](https://github.com/gerryvel/ETAP/blob/main/photo/Panel2.jpg)
