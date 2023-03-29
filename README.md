@@ -18,12 +18,13 @@ Hauptsteuerung für einen Kleinkreuzer
 
 - E/A Beleuchtung Raum und Navitisch
 - E/A Steckdose E-Motor
-- E/A Toplicht
+- E/A Toplicht, wird autom. mit astronomischer Uhr geschaltet
 - E/A der Bordelektronik (Plotter, Windmesser)
 - Unterspannungsabschaltung Verbraucher
 - USV (Ladung Akku)
 - Solaranlage (epever) mit Modbus-Kopplung zu Panel
 - USB Steckdose
+- Schukosteckdose
 
 *Messtechnik*
 
