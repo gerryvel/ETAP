@@ -42,6 +42,8 @@ Hauptsteuerung für einen Kleinkreuzer
 *Fotos*
 
 ![image](https://user-images.githubusercontent.com/17195231/227980468-d2b7e442-e219-49b4-a7d9-7403569d0187.jpeg)
+![image](https://github.com/user-attachments/assets/e8ca6c47-5b8f-4e0b-b6d5-3878fa6da75e)
+
 
 ![image](https://user-images.githubusercontent.com/17195231/227984708-99b8dcd1-320f-438b-afbe-812f05a47e54.jpeg)
 
