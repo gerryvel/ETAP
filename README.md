@@ -1,6 +1,6 @@
 # ETAP 20
 
-![OBP](https://img.shields.io/badge/OpenSailing-OpenBoatsProjects-blue)
+![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue)
 
 ![Schematics](https://github.com/gerryvel/ETAP/blob/main/etap.jpg)
 
