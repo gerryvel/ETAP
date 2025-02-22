@@ -1,7 +1,8 @@
 # ETAP 20
 
-![ESP32](https://img.shields.io/badge/Logo!-grey?logo=siemens)
-![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue)
+![Logo](https://img.shields.io/badge/Logo!-grey?logo=siemens)
+[![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue)](https://open-boat-projects.org/de/)
+
 
 ![Schematics](https://github.com/gerryvel/ETAP/blob/main/etap.jpg)
 
